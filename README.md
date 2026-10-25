@@ -20,7 +20,7 @@ Welcome to my data portfolio! This page summarizes the projects I've built using
 
 | Project Link | Area | Project Description | Libraries |
 |---|---|---|---|
-| 🏠 [Airbnb NYC Listings Analysis](https://github.com/<your-username>/airbnb-nyc-eda) | Data Wrangling & EDA | Analyzed 20,770 NYC Airbnb listings to understand what drives nightly prices. Found that Manhattan averages $204 per night vs $108 in the Bronx, number of beds is the strongest correlate of price (0.42), and 81% of listings require a 30-night minimum stay. | pandas, matplotlib, seaborn |
+| 🏠 [Airbnb NYC Listings Analysis](https://github.com/deepeshshrivastava567-design/airbnb-nyc-eda) | Data Wrangling & EDA | Analyzed 20,770 NYC Airbnb listings to understand what drives nightly prices. Found that Manhattan averages $204 per night vs $108 in the Bronx, number of beds is the strongest correlate of price (0.42), and 81% of listings require a 30-night minimum stay. | pandas, matplotlib, seaborn |
 | 🚗 [Car Price Prediction](https://github.com/<your-username>/<car-price-repo-name>) | Machine Learning & EDA | Built a regression model to predict used car prices after EDA and data cleaning. Deployed an interactive Streamlit app with a price predictor, trends and insights pages, and an embedded Power BI analytics dashboard. | pandas, plotly, scikit-learn, streamlit |
 
 ## Power BI
